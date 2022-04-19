@@ -1,0 +1,30 @@
+
+button {
+    background-color: rgb(233, 242, 248) !important;
+    color: rgb(15, 176, 228) !important;
+    font-size: 18px !important;;
+    font-weight: 1000 !important;
+    font-family: "True North", "Arial Rounded MT", Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+    margin: 2px !important;
+    border: 0 !important;
+}
+
+.button-disabled {
+    background-color: rgb(198 198 199 / 32%) !important;
+    color: rgb(77, 78, 79) !important;
+}
+
+.selected-number {
+    background: #abd3eb !important;
+    color: #282c34 !important;
+}
+
+.draw-number {
+    background: #e39494 !important;
+    color: #282c34 !important;
+}
+
+.selected-draw-number {
+    background: #b1eeb1 !important;
+    color: #282c34 !important;
+}
